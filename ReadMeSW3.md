@@ -5,11 +5,8 @@ The activity is consists of 3 parts:
 
 ## 1. Multiple Choice Questions (20-item)
 - Open the Terminal, then type python /home/rgbaldov/Downloads/sw3.py
-- Answer the seatwork but make sure to login first.
-    -- username: <DLSU ID> e.g. 20143311
-    -- password: <surname> e.g. baldovino
-- Do not forget your score in the seatwork.
-    -- Just in case you forgot, your scores are stored in my git repo.
+- Answer the seatwork but make sure to login first. (username: dlsu_id, password: surname)
+- Do not forget your score in the seatwork. Just in case you forgot, your scores are stored in my git repo.
 
 ## 2. Node-RED (send score via e-mail)
 - In your terminal, type node-red
